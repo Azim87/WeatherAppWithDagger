@@ -1,7 +1,8 @@
-package kg.azimus.weatherappwithdagger
+package kg.azimus.weatherappwithdagger.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import kg.azimus.weatherappwithdagger.R
 
 class MainActivity : AppCompatActivity() {
 
